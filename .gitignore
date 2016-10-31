@@ -33,3 +33,5 @@ $RECYCLE.BIN/
 # Powerpoint and word
 *.docx
 *.pptx
+/mockitoDemo/target/
+/mockitoDemo/nbproject/
